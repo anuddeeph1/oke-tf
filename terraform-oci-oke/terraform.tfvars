@@ -1,0 +1,8 @@
+user_ocid        = "ocid1.user.oc1()"
+tenancy_ocid     = "ocid1.tenancy.oc1()"
+compartment_ocid = "ocid1.tenancy.oc1()"
+fingerprint      = "<get from users>"
+private_key_path = "<key created in .oci dir>"
+region           = "us-ashburn-1"
+private_key_oci  = "../key-pair-oke/<keyname>"
+public_key_oci   = "..//key-pair-oke/<keyname.pub>"
